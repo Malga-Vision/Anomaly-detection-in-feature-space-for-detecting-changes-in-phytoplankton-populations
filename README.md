@@ -1,5 +1,5 @@
 # Anomaly-detection-in-feature-space-for-detecting-changes-in-phytoplankton-populations
-This repository contains the code for reproducing results reported in the paper "Anomaly detection in feature space for detecting changes in phytoplankton populations", Frontiers in Marine Science, 2024. 
+This repository contains the code for reproducing results reported in the paper ["Anomaly detection in feature space for detecting changes in phytoplankton populations", Frontiers in Marine Science, 2024](https://www.frontiersin.org/articles/10.3389/fmars.2023.1283265/full). 
 
 If you happen to refer to our work or use this code, please refer to it through the following citation:
 
